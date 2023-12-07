@@ -1,0 +1,902 @@
+[
+  {
+    "empId": 1,
+    "vardas": "John",
+    "pavarde": "Doe",
+    "patirtis": 36,
+    "alga": 50000,
+    "pareigos": "Engineer",
+    "amzius": 30
+  },
+  {
+    "empId": 2,
+    "vardas": "Mary",
+    "pavarde": "Smith",
+    "patirtis": 24,
+    "alga": 42000,
+    "pareigos": "Programmer",
+    "amzius": 28
+  },
+  {
+    "empId": 3,
+    "vardas": "Jane",
+    "pavarde": "Johnson",
+    "patirtis": 60,
+    "alga": 75000,
+    "pareigos": "Manager",
+    "amzius": 40
+  },
+  {
+    "empId": 4,
+    "vardas": "Robert",
+    "pavarde": "Williams",
+    "patirtis": 48,
+    "alga": 60000,
+    "pareigos": "Analyst",
+    "amzius": 35
+  },
+  {
+    "empId": 5,
+    "vardas": "Emily",
+    "pavarde": "Davis",
+    "patirtis": 42,
+    "alga": 55000,
+    "pareigos": "Designer",
+    "amzius": 32
+  },
+  {
+    "empId": 6,
+    "vardas": "Daniel",
+    "pavarde": "Brown",
+    "patirtis": 18,
+    "alga": 38000,
+    "pareigos": "Intern",
+    "amzius": 24
+  },
+  {
+    "empId": 7,
+    "vardas": "Olivia",
+    "pavarde": "Wilson",
+    "patirtis": 30,
+    "alga": 48000,
+    "pareigos": "Marketing Specialist",
+    "amzius": 27
+  },
+  {
+    "empId": 8,
+    "vardas": "Liam",
+    "pavarde": "Johnson",
+    "patirtis": 54,
+    "alga": 68000,
+    "pareigos": "Project Manager",
+    "amzius": 38
+  },
+  {
+    "empId": 9,
+    "vardas": "Sophia",
+    "pavarde": "Smith",
+    "patirtis": 36,
+    "alga": 52000,
+    "pareigos": "Software Engineer",
+    "amzius": 31
+  },
+  {
+    "empId": 10,
+    "vardas": "Ethan",
+    "pavarde": "Miller",
+    "patirtis": 27,
+    "alga": 45000,
+    "pareigos": "Database Administrator",
+    "amzius": 29
+  },
+  {
+    "empId": 11,
+    "vardas": "Ava",
+    "pavarde": "Anderson",
+    "patirtis": 39,
+    "alga": 56000,
+    "pareigos": "HR Specialist",
+    "amzius": 33
+  },
+  {
+    "empId": 12,
+    "vardas": "Noah",
+    "pavarde": "Taylor",
+    "patirtis": 20,
+    "alga": 40000,
+    "pareigos": "Technical Writer",
+    "amzius": 26
+  },
+  {
+    "empId": 13,
+    "vardas": "Isabella",
+    "pavarde": "Moore",
+    "patirtis": 45,
+    "alga": 62000,
+    "pareigos": "Business Analyst",
+    "amzius": 36
+  },
+  {
+    "empId": 14,
+    "vardas": "Mason",
+    "pavarde": "Clark",
+    "patirtis": 32,
+    "alga": 49000,
+    "pareigos": "Quality Assurance Engineer",
+    "amzius": 28
+  },
+  {
+    "empId": 15,
+    "vardas": "Harper",
+    "pavarde": "Lewis",
+    "patirtis": 28,
+    "alga": 47000,
+    "pareigos": "Product Manager",
+    "amzius": 30
+  },
+  {
+    "empId": 16,
+    "vardas": "Carter",
+    "pavarde": "Hall",
+    "patirtis": 22,
+    "alga": 42000,
+    "pareigos": "UX/UI Designer",
+    "amzius": 27
+  },
+  {
+    "empId": 17,
+    "vardas": "Aria",
+    "pavarde": "Ward",
+    "patirtis": 33,
+    "alga": 53000,
+    "pareigos": "System Administrator",
+    "amzius": 32
+  },
+  {
+    "empId": 18,
+    "vardas": "Elijah",
+    "pavarde": "Fisher",
+    "patirtis": 25,
+    "alga": 44000,
+    "pareigos": "Network Engineer",
+    "amzius": 29
+  },
+  {
+    "empId": 19,
+    "vardas": "Scarlett",
+    "pavarde": "Lopez",
+    "patirtis": 31,
+    "alga": 51000,
+    "pareigos": "Financial Analyst",
+    "amzius": 34
+  },
+  {
+    "empId": 20,
+    "vardas": "Grayson",
+    "pavarde": "Baker",
+    "patirtis": 29,
+    "alga": 46000,
+    "pareigos": "Customer Support Specialist",
+    "amzius": 28
+  },
+  {
+    "empId": 21,
+    "vardas": "Luna",
+    "pavarde": "Garcia",
+    "patirtis": 38,
+    "alga": 57000,
+    "pareigos": "Data Scientist",
+    "amzius": 33
+  },
+  {
+    "empId": 22,
+    "vardas": "Hudson",
+    "pavarde": "Jones",
+    "patirtis": 26,
+    "alga": 43000,
+    "pareigos": "Technical Support Specialist",
+    "amzius": 28
+  },
+  {
+    "empId": 23,
+    "vardas": "Avery",
+    "pavarde": "Cooper",
+    "patirtis": 43,
+    "alga": 59000,
+    "pareigos": "Sales Representative",
+    "amzius": 36
+  },
+  {
+    "empId": 24,
+    "vardas": "Logan",
+    "pavarde": "Morgan",
+    "patirtis": 19,
+    "alga": 39000,
+    "pareigos": "Junior Developer",
+    "amzius": 25
+  },
+  {
+    "empId": 25,
+    "vardas": "Evelyn",
+    "pavarde": "Foster",
+    "patirtis": 35,
+    "alga": 54000,
+    "pareigos": "Customer Success Manager",
+    "amzius": 31
+  },
+  {
+    "empId": 26,
+    "vardas": "Caleb",
+    "pavarde": "Turner",
+    "patirtis": 23,
+    "alga": 41000,
+    "pareigos": "IT Consultant",
+    "amzius": 27
+  },
+  {
+    "empId": 27,
+    "vardas": "Aubrey",
+    "pavarde": "Reed",
+    "patirtis": 29,
+    "alga": 48000,
+    "pareigos": "Content Writer",
+    "amzius": 28
+  },
+  {
+    "empId": 28,
+    "vardas": "Eli",
+    "pavarde": "Hill",
+    "patirtis": 46,
+    "alga": 61000,
+    "pareigos": "Product Owner",
+    "amzius": 37
+  },
+  {
+    "empId": 29,
+    "vardas": "Aaliyah",
+    "pavarde": "Wells",
+    "patirtis": 32,
+    "alga": 50000,
+    "pareigos": "UX Designer",
+    "amzius": 29
+  },
+  {
+    "empId": 30,
+    "vardas": "Jackson",
+    "pavarde": "Hunter",
+    "patirtis": 27,
+    "alga": 46000,
+    "pareigos": "Business Development Specialist",
+    "amzius": 28
+  },
+  {
+    "empId": 31,
+    "vardas": "Grace",
+    "pavarde": "Adams",
+    "patirtis": 30,
+    "alga": 52000,
+    "pareigos": "Systems Analyst",
+    "amzius": 29
+  },
+  {
+    "empId": 32,
+    "vardas": "Easton",
+    "pavarde": "Cruz",
+    "patirtis": 21,
+    "alga": 42000,
+    "pareigos": "Social Media Manager",
+    "amzius": 26
+  },
+  {
+    "empId": 33,
+    "vardas": "Nova",
+    "pavarde": "Perry",
+    "patirtis": 36,
+    "alga": 55000,
+    "pareigos": "Operations Coordinator",
+    "amzius": 30
+  },
+  {
+    "empId": 34,
+    "vardas": "Kai",
+    "pavarde": "Wallace",
+    "patirtis": 24,
+    "alga": 43000,
+    "pareigos": "Graphic Designer",
+    "amzius": 27
+  },
+  {
+    "empId": 35,
+    "vardas": "Peyton",
+    "pavarde": "Hayes",
+    "patirtis": 33,
+    "alga": 49000,
+    "pareigos": "Network Administrator",
+    "amzius": 32
+  },
+  {
+    "empId": 36,
+    "vardas": "Zane",
+    "pavarde": "Fletcher",
+    "patirtis": 28,
+    "alga": 47000,
+    "pareigos": "Customer Service Manager",
+    "amzius": 31
+  },
+  {
+    "empId": 37,
+    "vardas": "Lila",
+    "pavarde": "Barnes",
+    "patirtis": 25,
+    "alga": 45000,
+    "pareigos": "Software Tester",
+    "amzius": 29
+  },
+  {
+    "empId": 38,
+    "vardas": "Maddox",
+    "pavarde": "Dixon",
+    "patirtis": 39,
+    "alga": 56000,
+    "pareigos": "Quality Assurance Analyst",
+    "amzius": 34
+  },
+  {
+    "empId": 39,
+    "vardas": "Hazel",
+    "pavarde": "Gibson",
+    "patirtis": 22,
+    "alga": 40000,
+    "pareigos": "Technical Recruiter",
+    "amzius": 26
+  },
+  {
+    "empId": 40,
+    "vardas": "Gavin",
+    "pavarde": "Stone",
+    "patirtis": 29,
+    "alga": 51000,
+    "pareigos": "Financial Planner",
+    "amzius": 33
+  },
+  {
+    "empId": 41,
+    "vardas": "Stella",
+    "pavarde": "Reyes",
+    "patirtis": 31,
+    "alga": 53000,
+    "pareigos": "Project Coordinator",
+    "amzius": 32
+  },
+  {
+    "empId": 42,
+    "vardas": "Nolan",
+    "pavarde": "Hudson",
+    "patirtis": 26,
+    "alga": 42000,
+    "pareigos": "Content Marketing Specialist",
+    "amzius": 27
+  },
+  {
+    "empId": 43,
+    "vardas": "Zara",
+    "pavarde": "Bryant",
+    "patirtis": 34,
+    "alga": 49000,
+    "pareigos": "Front-End Developer",
+    "amzius": 29
+  },
+  {
+    "empId": 44,
+    "vardas": "Cameron",
+    "pavarde": "Perez",
+    "patirtis": 19,
+    "alga": 38000,
+    "pareigos": "Technical Support Engineer",
+    "amzius": 25
+  },
+  {
+    "empId": 45,
+    "vardas": "Avery",
+    "pavarde": "Harrison",
+    "patirtis": 37,
+    "alga": 56000,
+    "pareigos": "UX/UI Developer",
+    "amzius": 33
+  },
+  {
+    "empId": 46,
+    "vardas": "Bentley",
+    "pavarde": "Fuller",
+    "patirtis": 22,
+    "alga": 41000,
+    "pareigos": "Sales Support Specialist",
+    "amzius": 26
+  },
+  {
+    "empId": 47,
+    "vardas": "Isla",
+    "pavarde": "Lambert",
+    "patirtis": 29,
+    "alga": 48000,
+    "pareigos": "HR Coordinator",
+    "amzius": 28
+  },
+  {
+    "empId": 48,
+    "vardas": "Finn",
+    "pavarde": "Burgess",
+    "patirtis": 45,
+    "alga": 62000,
+    "pareigos": "Product Marketing Manager",
+    "amzius": 36
+  },
+  {
+    "empId": 49,
+    "vardas": "Nova",
+    "pavarde": "Hale",
+    "patirtis": 31,
+    "alga": 50000,
+    "pareigos": "IT Support Specialist",
+    "amzius": 29
+  },
+  {
+    "empId": 50,
+    "vardas": "Zayden",
+    "pavarde": "Moss",
+    "patirtis": 26,
+    "alga": 46000,
+    "pareigos": "Business Analyst",
+    "amzius": 28
+  },
+  {
+    "empId": 51,
+    "vardas": "Penelope",
+    "pavarde": "Rhodes",
+    "patirtis": 30,
+    "alga": 52000,
+    "pareigos": "Social Media Coordinator",
+    "amzius": 29
+  },
+  {
+    "empId": 52,
+    "vardas": "Paxton",
+    "pavarde": "Walters",
+    "patirtis": 21,
+    "alga": 42000,
+    "pareigos": "Technical Writer",
+    "amzius": 26
+  },
+  {
+    "empId": 53,
+    "vardas": "Athena",
+    "pavarde": "Potter",
+    "patirtis": 36,
+    "alga": 55000,
+    "pareigos": "Business Development Manager",
+    "amzius": 30
+  },
+  {
+    "empId": 54,
+    "vardas": "Archer",
+    "pavarde": "McBride",
+    "patirtis": 24,
+    "alga": 43000,
+    "pareigos": "Graphic Designer",
+    "amzius": 27
+  },
+  {
+    "empId": 55,
+    "vardas": "Rylee",
+    "pavarde": "Wyatt",
+    "patirtis": 33,
+    "alga": 49000,
+    "pareigos": "Network Engineer",
+    "amzius": 32
+  },
+  {
+    "empId": 56,
+    "vardas": "Daxton",
+    "pavarde": "Hayes",
+    "patirtis": 28,
+    "alga": 47000,
+    "pareigos": "Customer Service Manager",
+    "amzius": 31
+  },
+  {
+    "empId": 57,
+    "vardas": "Jade",
+    "pavarde": "Barnes",
+    "patirtis": 25,
+    "alga": 45000,
+    "pareigos": "Software Tester",
+    "amzius": 29
+  },
+  {
+    "empId": 58,
+    "vardas": "Axton",
+    "pavarde": "Dixon",
+    "patirtis": 39,
+    "alga": 56000,
+    "pareigos": "Quality Assurance Analyst",
+    "amzius": 34
+  },
+  {
+    "empId": 59,
+    "vardas": "Brynn",
+    "pavarde": "Gibson",
+    "patirtis": 22,
+    "alga": 40000,
+    "pareigos": "Technical Recruiter",
+    "amzius": 26
+  },
+  {
+    "empId": 60,
+    "vardas": "Blaise",
+    "pavarde": "Stone",
+    "patirtis": 29,
+    "alga": 51000,
+    "pareigos": "Financial Planner",
+    "amzius": 33
+  },
+  {
+    "empId": 61,
+    "vardas": "Nina",
+    "pavarde": "Reeves",
+    "patirtis": 35,
+    "alga": 54000,
+    "pareigos": "IT Manager",
+    "amzius": 31
+  },
+  {
+    "empId": 62,
+    "vardas": "Braxton",
+    "pavarde": "Lowe",
+    "patirtis": 27,
+    "alga": 46000,
+    "pareigos": "Marketing Coordinator",
+    "amzius": 28
+  },
+  {
+    "empId": 63,
+    "vardas": "Athena",
+    "pavarde": "Schmidt",
+    "patirtis": 43,
+    "alga": 59000,
+    "pareigos": "Software Architect",
+    "amzius": 36
+  },
+  {
+    "empId": 64,
+    "vardas": "Cruz",
+    "pavarde": "Baldwin",
+    "patirtis": 28,
+    "alga": 48000,
+    "pareigos": "Content Strategist",
+    "amzius": 30
+  },
+  {
+    "empId": 65,
+    "vardas": "Reyna",
+    "pavarde": "Ortega",
+    "patirtis": 24,
+    "alga": 44000,
+    "pareigos": "System Administrator",
+    "amzius": 27
+  },
+  {
+    "empId": 66,
+    "vardas": "Titus",
+    "pavarde": "Vaughn",
+    "patirtis": 29,
+    "alga": 51000,
+    "pareigos": "UX/UI Designer",
+    "amzius": 28
+  },
+  {
+    "empId": 67,
+    "vardas": "Lila",
+    "pavarde": "Branch",
+    "patirtis": 33,
+    "alga": 50000,
+    "pareigos": "Financial Analyst",
+    "amzius": 29
+  },
+  {
+    "empId": 68,
+    "vardas": "Hugo",
+    "pavarde": "Petersen",
+    "patirtis": 26,
+    "alga": 43000,
+    "pareigos": "Product Designer",
+    "amzius": 27
+  },
+  {
+    "empId": 69,
+    "vardas": "Mira",
+    "pavarde": "Griffith",
+    "patirtis": 41,
+    "alga": 58000,
+    "pareigos": "Project Manager",
+    "amzius": 35
+  },
+  {
+    "empId": 70,
+    "vardas": "Ryker",
+    "pavarde": "Hodge",
+    "patirtis": 32,
+    "alga": 49000,
+    "pareigos": "Data Analyst",
+    "amzius": 29
+  },
+  {
+    "empId": 71,
+    "vardas": "Isabel",
+    "pavarde": "Greer",
+    "patirtis": 27,
+    "alga": 45000,
+    "pareigos": "Technical Recruiter",
+    "amzius": 28
+  },
+  {
+    "empId": 72,
+    "vardas": "Dexter",
+    "pavarde": "Witt",
+    "patirtis": 36,
+    "alga": 55000,
+    "pareigos": "Quality Assurance Engineer",
+    "amzius": 30
+  },
+  {
+    "empId": 73,
+    "vardas": "Elise",
+    "pavarde": "Mathis",
+    "patirtis": 24,
+    "alga": 42000,
+    "pareigos": "UX/UI Developer",
+    "amzius": 27
+  },
+  {
+    "empId": 74,
+    "vardas": "Knox",
+    "pavarde": "Carson",
+    "patirtis": 29,
+    "alga": 48000,
+    "pareigos": "Customer Success Manager",
+    "amzius": 28
+  },
+  {
+    "empId": 75,
+    "vardas": "Zara",
+    "pavarde": "Gaines",
+    "patirtis": 34,
+    "alga": 53000,
+    "pareigos": "Systems Administrator",
+    "amzius": 32
+  },
+  {
+    "empId": 76,
+    "vardas": "Ronin",
+    "pavarde": "Mckee",
+    "patirtis": 25,
+    "alga": 44000,
+    "pareigos": "IT Consultant",
+    "amzius": 29
+  },
+  {
+    "empId": 77,
+    "vardas": "Bianca",
+    "pavarde": "Wiggins",
+    "patirtis": 30,
+    "alga": 52000,
+    "pareigos": "Marketing Specialist",
+    "amzius": 29
+  },
+  {
+    "empId": 78,
+    "vardas": "Orion",
+    "pavarde": "Sheppard",
+    "patirtis": 20,
+    "alga": 40000,
+    "pareigos": "Junior Developer",
+    "amzius": 26
+  },
+  {
+    "empId": 79,
+    "vardas": "Layla",
+    "pavarde": "Humphrey",
+    "patirtis": 35,
+    "alga": 54000,
+    "pareigos": "Technical Writer",
+    "amzius": 31
+  },
+  {
+    "empId": 80,
+    "vardas": "Harlan",
+    "pavarde": "Leonard",
+    "patirtis": 27,
+    "alga": 46000,
+    "pareigos": "Marketing Coordinator",
+    "amzius": 28
+  },
+  {
+    "empId": 81,
+    "vardas": "Aurora",
+    "pavarde": "Emerson",
+    "patirtis": 32,
+    "alga": 50000,
+    "pareigos": "Business Development Specialist",
+    "amzius": 29
+  },
+  {
+    "empId": 82,
+    "vardas": "Madden",
+    "pavarde": "Fleming",
+    "patirtis": 23,
+    "alga": 41000,
+    "pareigos": "Content Writer",
+    "amzius": 27
+  },
+  {
+    "empId": 83,
+    "vardas": "Ivy",
+    "pavarde": "Hobbs",
+    "patirtis": 38,
+    "alga": 57000,
+    "pareigos": "HR Specialist",
+    "amzius": 33
+  },
+  {
+    "empId": 84,
+    "vardas": "Axel",
+    "pavarde": "Bray",
+    "patirtis": 29,
+    "alga": 48000,
+    "pareigos": "Product Owner",
+    "amzius": 30
+  },
+  {
+    "empId": 85,
+    "vardas": "Leah",
+    "pavarde": "Hudson",
+    "patirtis": 33,
+    "alga": 52000,
+    "pareigos": "IT Manager",
+    "amzius": 31
+  },
+  {
+    "empId": 86,
+    "vardas": "Ezra",
+    "pavarde": "Mills",
+    "patirtis": 28,
+    "alga": 48000,
+    "pareigos": "Content Marketing Specialist",
+    "amzius": 29
+  },
+  {
+    "empId": 87,
+    "vardas": "Kinsley",
+    "pavarde": "Dunn",
+    "patirtis": 26,
+    "alga": 46000,
+    "pareigos": "Technical Support Engineer",
+    "amzius": 28
+  },
+  {
+    "empId": 88,
+    "vardas": "Micah",
+    "pavarde": "Carpenter",
+    "patirtis": 32,
+    "alga": 50000,
+    "pareigos": "Sales Manager",
+    "amzius": 30
+  },
+  {
+    "empId": 89,
+    "vardas": "Adeline",
+    "pavarde": "Cunningham",
+    "patirtis": 29,
+    "alga": 49000,
+    "pareigos": "Business Intelligence Analyst",
+    "amzius": 29
+  },
+  {
+    "empId": 90,
+    "vardas": "Rhett",
+    "pavarde": "Mercer",
+    "patirtis": 35,
+    "alga": 54000,
+    "pareigos": "UX Researcher",
+    "amzius": 32
+  },
+  {
+    "empId": 91,
+    "vardas": "Alayna",
+    "pavarde": "Hess",
+    "patirtis": 31,
+    "alga": 51000,
+    "pareigos": "Financial Controller",
+    "amzius": 31
+  },
+  {
+    "empId": 92,
+    "vardas": "Knox",
+    "pavarde": "Morris",
+    "patirtis": 27,
+    "alga": 47000,
+    "pareigos": "Network Security Analyst",
+    "amzius": 28
+  },
+  {
+    "empId": 93,
+    "vardas": "Elaina",
+    "pavarde": "Hogan",
+    "patirtis": 30,
+    "alga": 49000,
+    "pareigos": "Social Media Specialist",
+    "amzius": 29
+  },
+  {
+    "empId": 94,
+    "vardas": "Jase",
+    "pavarde": "Lloyd",
+    "patirtis": 24,
+    "alga": 43000,
+    "pareigos": "Quality Control Inspector",
+    "amzius": 27
+  },
+  {
+    "empId": 95,
+    "vardas": "Aisha",
+    "pavarde": "McCarthy",
+    "patirtis": 28,
+    "alga": 46000,
+    "pareigos": "Business Development Manager",
+    "amzius": 28
+  },
+  {
+    "empId": 96,
+    "vardas": "Kameron",
+    "pavarde": "Pace",
+    "patirtis": 22,
+    "alga": 41000,
+    "pareigos": "IT Support Specialist",
+    "amzius": 26
+  },
+  {
+    "empId": 97,
+    "vardas": "Jaliyah",
+    "pavarde": "Lara",
+    "patirtis": 29,
+    "alga": 48000,
+    "pareigos": "Marketing Analyst",
+    "amzius": 28
+  },
+  {
+    "empId": 98,
+    "vardas": "Colin",
+    "pavarde": "Dunlap",
+    "patirtis": 33,
+    "alga": 52000,
+    "pareigos": "Software Architect",
+    "amzius": 31
+  },
+  {
+    "empId": 99,
+    "vardas": "Amina",
+    "pavarde": "Mann",
+    "patirtis": 26,
+    "alga": 45000,
+    "pareigos": "Technical Project Manager",
+    "amzius": 27
+  },
+  {
+    "empId": 100,
+    "vardas": "Darian",
+    "pavarde": "Blevins",
+    "patirtis": 28,
+    "alga": 47000,
+    "pareigos": "Customer Experience Specialist",
+    "amzius": 28
+  }
+]
